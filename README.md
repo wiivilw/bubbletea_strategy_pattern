@@ -60,7 +60,7 @@ A new preparation method can be introduced by creating another class that implem
 
 1. Open the project in IntelliJ IDEA.
 2. Configure a Java Development Kit (JDK).
-3. Open `Main.java`.
+3. Open `src/Main.java`.
 4. Run the `main()` method.
 
 The program displays the preparation steps for all three bubble tea variants in the console.
